@@ -1,0 +1,38 @@
+*{
+    font-family: "Lucida Grande";
+    margin: 10px;
+
+}
+body {
+    justify-content: center ;
+}
+.Hero{
+    position: absolute;
+    margin-left: 90px;
+}
+.Hero h1{
+    font-size: 45px;
+    position: absolute;
+    margin-top: 600px;
+    margin-left: 80px;
+}
+.About pre{
+    font-size: 25px;
+    position: relative;
+    margin-left: 600px;
+
+}
+
+.About h1{
+    margin-left:650px;
+}
+.portfoliobar {
+    position: absolute;
+}
+.portfoliobar a h1 {
+    font-size: 69px;
+    text-decoration: none;
+    color : black;
+    margin-left: 500px;
+    margin-top: 560px;
+}
