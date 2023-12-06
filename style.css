@@ -1,25 +1,31 @@
 *{
-    font-family: "Lucida Grande";
+    font-family: Stencil Std, fantasy;
     margin: 10px;
-
+    
 }
 body {
     justify-content: center ;
+    
 }
 .Hero{
     position: absolute;
     margin-left: 90px;
+    
+
 }
 .Hero h1{
+    color:black;
     font-size: 45px;
     position: absolute;
     margin-top: 600px;
     margin-left: 80px;
+    
 }
 .About pre{
     font-size: 25px;
     position: relative;
     margin-left: 600px;
+
 
 }
 
@@ -35,4 +41,17 @@ body {
     color : black;
     margin-left: 500px;
     margin-top: 560px;
+}
+.About a{
+    text-decoration: none;
+    color: white;
+    border: 2px solid gold;
+    background-color: black;
+    border-radius: 3rem;
+    padding: 1rem;
+
+}
+.About a:hover{
+    background-color: gold;
+    
 }
